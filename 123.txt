@@ -1,1 +1,3 @@
-1234
+mkdir textfile
+cd textfile
+echo "created"
